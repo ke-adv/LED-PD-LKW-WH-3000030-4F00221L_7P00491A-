@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:20:06 On 24.05.2022
+
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [LED PD LKW WH 3000030 (4F00221L_7P00491A).PcbDoc]
+   Generated File[LED PD LKW WH 3000030 (4F00221L_7P00491A).DWG]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:20:07 On 24.05.2022
